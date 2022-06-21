@@ -4,11 +4,11 @@
 
   "version": "0.0.1",
 
-  "description": "✨ Module Template.",
+  "description": "☄️ Kiarea tarafından yapılmış Türkçe ve İngilizce destekli database modülü.",
 
   "main": "lib/index.js",
   
-  "types": "./index.d.ts",
+  "types": "lib/structures/func.d.ts",
 
   "scripts": {
 

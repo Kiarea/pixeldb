@@ -1,4 +1,4 @@
-# spacedb
+# ☄️ spacedb
 
 bir JSON veritabanı modülü
 

@@ -1,4 +1,4 @@
-declare module "spacedb" {
+declare module "pixeldb" {
     export class DB {
       constructor(file?: string);
       private file: string;

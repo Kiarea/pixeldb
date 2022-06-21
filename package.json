@@ -1,0 +1,33 @@
+{
+
+  "name": "spacedb",
+
+  "version": "0.0.1",
+
+  "description": "✨ Module Template.",
+
+  "main": "lib/index.js",
+
+  "scripts": {
+
+    "test": "node test/index.js"
+
+  },
+
+  "author": "Kiarea",
+
+  "license": "MIT",
+
+  "dependencies": {},
+
+  "keywords": [],
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/Kiarea/spacedb"
+
+  }
+
+}

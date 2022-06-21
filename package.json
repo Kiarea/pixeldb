@@ -7,6 +7,8 @@
   "description": "✨ Module Template.",
 
   "main": "lib/index.js",
+  
+  "types": "./index.d.ts",
 
   "scripts": {
 

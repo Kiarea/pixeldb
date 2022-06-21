@@ -1,4 +1,4 @@
-const db = require("./index.js");
+const db = require("../lib/index");
 db.yaz("prefix", "!")
 if(!db.kontrol("prefix")) return console.log("Prefix ayarlı değil!");
 let prefix = db.bul("prefix")

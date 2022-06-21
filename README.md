@@ -1,4 +1,4 @@
-# ☄️ spacedb
+# ☄️ pixeldb
 
 bir JSON veritabanı modülü
 
@@ -7,13 +7,13 @@ bir JSON veritabanı modülü
 Modülü kurmak için öncelikle konsola aşağıdaki yazıyı yazmalısınız.
 
 ```bash
-npm i spacedb@latest
+npm i pixeldb@latest
 ```
 
 Bunu yazdıktan sonra modülün indirilmesiniz bekleyin. Modül kurulunca `main (bot.js / server.js / index.js / main.js, vb)` dosyanıza aşağıdaki kodu ekleyin. Kodu en başa eklemeniz main dosyanızın daha hoş durmasını sağlayacaktır.
 
 ```javascript
-const db = require("spacedb")
+const db = require("pixeldb")
 ```
 
 Paket otomatik olarak `database.json` dosyası oluşturacak verileriniz bu dosyaya kayıt edilecek.
@@ -77,6 +77,6 @@ Paket otomatik olarak `database.json` dosyası oluşturacak verileriniz bu dosya
 
 Desteğe ihtiyacınız olursa [destek sunucumuzu](https://discord.gg/a422yhxDg8) ziyaret edebilirsiniz.
 
-## inflames.db
+## pixel.db
 
 Discord Adresim: Kiarea#0001
